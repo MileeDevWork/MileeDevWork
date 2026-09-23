@@ -37,8 +37,7 @@
       <td align="center" width="30">➔</td>
       <!-- The Cube System -->
       <td align="center" width="200">
-        <sub><b>May 2026 - Sep 2026</b></sub><br/>
-        <img src="https://img.shields.io/badge/-Present-brightgreen?style=flat-square" height="16"/><br/><br/>
+        <sub><b>May 2026 - Sep 2026</b></sub><br/><br/><br/>
         <img src="./assets/logo3.png" width="40" height="40" style="border-radius: 8px; object-fit: contain;" alt="The Cube System Logo"/><br/><br/>
         <b>The Cube System</b><br/>
         <sub>Fullstack Developer (Intern → Fresher)</sub>
