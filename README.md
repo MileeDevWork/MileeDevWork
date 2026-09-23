@@ -1,6 +1,5 @@
 # Hi, I'm Milee 👋
 
-Computer Engineering Student
 
 ![Pixel Art Workspace](./assets/back.gif)
 
