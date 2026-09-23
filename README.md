@@ -8,7 +8,7 @@
 ## 🤝Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trinh-thi-my-le-b38064365/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:letrinh0904.work@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=%23FF7139)](https://mileedevwork.github.io/TrinhThiMyLe.portfol)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=%23FF7139)](https://mileedevwork.github.io/TrinhThiMyLe.portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/MileeDevWork)
 
 
