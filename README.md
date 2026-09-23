@@ -11,6 +11,42 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=%23FF7139)](https://mileedevwork.github.io/TrinhThiMyLe.portfol)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/MileeDevWork)
 
+
+## 💼 Experience
+
+<div align="center">
+  <table>
+    <tr>
+      <!-- Tam Anh Hospital -->
+      <td align="center" width="180">
+        <sub><b>Jun 2025 - Jul 2025</b></sub><br/><br/>
+        <img src="https://img.icons8.com/fluency/48/hospital-room.png" width="36" height="36" alt="Tam Anh Hospital"/><br/><br/>
+        <b>Tam Anh Hospital</b><br/>
+        <sub>Business Analyst Intern</sub>
+      </td>
+      <!-- Arrow -->
+      <td align="center" width="30">➔</td>
+      <!-- ZIGEXN VeNtura -->
+      <td align="center" width="180">
+        <sub><b>Nov 2025 - Jan 2026</b></sub><br/><br/>
+        <img src="https://img.icons8.com/fluency/48/source-code.png" width="36" height="36" alt="ZIGEXN VeNtura"/><br/><br/>
+        <b>ZIGEXN VeNtura</b><br/>
+        <sub>Fullstack Web Developer Intern</sub>
+      </td>
+      <!-- Arrow -->
+      <td align="center" width="30">➔</td>
+      <!-- The Cube System -->
+      <td align="center" width="180">
+        <sub><b>May 2026 - Present</b></sub><br/>
+        <img src="https://img.shields.io/badge/-Present-brightgreen?style=flat-square" height="16"/><br/><br/>
+        <img src="https://img.icons8.com/fluency/48/bank.png" width="36" height="36" alt="The Cube System"/><br/><br/>
+        <b>The Cube System</b><br/>
+        <sub>Fullstack Developer (Intern → Fresher)</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
 # 💻Tech Stack
 
 **Programming Languages**
