@@ -1,3 +1,11 @@
+# Hi, I'm Milee 👋
+
+Computer Engineering Student
+
+![Pixel Art Workspace](./assets/pixel-room.png)
+
+
+
 ## 🤝Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trinh-thi-my-le-b38064365/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:letrinh0904.work@gmail.com)
