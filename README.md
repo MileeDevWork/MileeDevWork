@@ -2,7 +2,7 @@
 
 Computer Engineering Student
 
-![Pixel Art Workspace](./assets/pixel-room.png)
+![Pixel Art Workspace](./assets/back.gif)
 
 
 
