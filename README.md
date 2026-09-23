@@ -1,7 +1,7 @@
 ## 🤝Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trinh-thi-my-le-b38064365/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:letrinh0904.work@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=%23FF7139)](https://mileedevwork.github.io/TrinhThiMyLe.portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=%23FF7139)](https://mileedevwork.github.io/TrinhThiMyLe.portfol)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/MileeDevWork)
 
 # 💻Tech Stack
@@ -18,8 +18,14 @@
 **Databases**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
+**Robotics & Embedded**
+![ROS2](https://img.shields.io/badge/ROS_2-%230A0FF9.svg?style=flat&logo=ros&logoColor=white) ![SLAM](https://img.shields.io/badge/SLAM-4B8BBE.svg?style=flat&logo=googlemaps&logoColor=white) ![Nav2](https://img.shields.io/badge/Nav2-2C3E50.svg?style=flat&logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white&color=5C3EE8) ![MCP](https://img.shields.io/badge/MCP-000000.svg?style=flat&logo=anthropic&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
+
+**Embedded Systems & IoT Protocols**
+![GPIO](https://img.shields.io/badge/GPIO-1A1A2E.svg?style=flat) ![Timer](https://img.shields.io/badge/Timer-1A1A2E.svg?style=flat) ![Interrupt](https://img.shields.io/badge/Interrupt-1A1A2E.svg?style=flat) ![PWM](https://img.shields.io/badge/PWM-1A1A2E.svg?style=flat) ![RTOS](https://img.shields.io/badge/RTOS-1A1A2E.svg?style=flat) ![Scheduler](https://img.shields.io/badge/Scheduler-1A1A2E.svg?style=flat) ![UART](https://img.shields.io/badge/UART-16213E.svg?style=flat) ![I²C](https://img.shields.io/badge/I%C2%B2C-16213E.svg?style=flat) ![SPI](https://img.shields.io/badge/SPI-16213E.svg?style=flat) ![CAN](https://img.shields.io/badge/CAN-16213E.svg?style=flat) ![MQTT](https://img.shields.io/badge/MQTT-660066.svg?style=flat&logo=mqtt&logoColor=white) ![ESP--NOW](https://img.shields.io/badge/ESP--NOW-E7352C.svg?style=flat&logo=espressif&logoColor=white)
+
 **DevOps & Infra**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=flat&logo=ros&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 
 **Tools & Design**
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
